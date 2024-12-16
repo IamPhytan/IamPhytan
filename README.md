@@ -51,9 +51,12 @@ I completed a master's degree in Computer Science with a specialization in Field
 
 ## :chart_with_upwards_trend: Stats
 
-![Score Card](https://github-readme-stats.vercel.app/api?username=IamPhytan&layout=compact&theme=vision-friendly-dark&show_icons=true&count_private=true)
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=IamPhytan&langs_count=10&layout=compact&theme=vision-friendly-dark&hide=jupyter+notebook,cmake" width="42%" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=IamPhytan&layout=compact&theme=vision-friendly-dark&show_icons=true&count_private=true" width="55%" alt="Score Card"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=IamPhytan&langs_count=10&layout=compact&theme=vision-friendly-dark&hide=jupyter+notebook,cmake)
+<!-- ![Score Card](https://github-readme-stats.vercel.app/api?username=IamPhytan&layout=compact&theme=vision-friendly-dark&show_icons=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=IamPhytan&langs_count=10&layout=compact&theme=vision-friendly-dark&hide=jupyter+notebook,cmake) -->
+
 
 <!--
 ## Education
