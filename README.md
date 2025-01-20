@@ -49,6 +49,16 @@ I completed a master's degree in Computer Science with a specialization in Field
   </ul>
 </details>
 
+## A selection of my open source projects
+
+|     | 📦 Project                                                                   | 👐 Description                                                                               | ⭐ Stars                                                                                                                                                |
+| --- | --------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 🤖   | [rosbag-tools](https://github.com/IamPhytan/rosbag-tools)                   | A ROS-agnostic toolbox for common rosbag operations                                         | [![stars](https://img.shields.io/github/stars/iamphytan/rosbag-tools?style=flat-square")](https://github.com/IamPhytan/rosbag-tools)                   |
+| 📚   | [digikey-kicad-library](https://github.com/IamPhytan/digikey-kicad-library) | An atomic parts library for KiCad 6, 7, and 8                                               | [![stars](https://img.shields.io/github/stars/iamphytan/digikey-kicad-library?style=flat-square")](https://github.com/IamPhytan/digikey-kicad-library) |
+| 🎄   | [christmas-tree-pcb](https://github.com/IamPhytan/christmas-tree-pcb)       | Christmas Tree PCB, made with FOSS                                                          | [![stars](https://img.shields.io/github/stars/iamphytan/christmas-tree-pcb?style=flat-square")](https://github.com/IamPhytan/christmas-tree-pcb)       |
+| 🧪   | [BorealTC](https://github.com/norlab-ulaval/BorealTC)                       | BorealTC: Deep Learning for Proprioceptive-Based Terrain Classification in a Boreal Setting | [![stars](https://img.shields.io/github/stars/norlab-ulaval/BorealTC?style=flat-square")](https://github.com/norlab-ulaval/BorealTC)                   |
+
+
 ## :chart_with_upwards_trend: Stats
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=IamPhytan&langs_count=10&layout=compact&theme=vision-friendly-dark&hide=jupyter+notebook,cmake" width="42%" alt="Top Languages" />
