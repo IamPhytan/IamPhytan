@@ -57,6 +57,7 @@ I completed a master's degree in Computer Science with a specialization in Field
 | 📚   | [digikey-kicad-library](https://github.com/IamPhytan/digikey-kicad-library) | An atomic parts library for KiCad 6, 7, and 8                                               | [![stars](https://img.shields.io/github/stars/iamphytan/digikey-kicad-library?style=flat-square")](https://github.com/IamPhytan/digikey-kicad-library) |
 | 🎄   | [christmas-tree-pcb](https://github.com/IamPhytan/christmas-tree-pcb)       | Christmas Tree PCB, made with FOSS                                                          | [![stars](https://img.shields.io/github/stars/iamphytan/christmas-tree-pcb?style=flat-square")](https://github.com/IamPhytan/christmas-tree-pcb)       |
 | 🧪   | [BorealTC](https://github.com/norlab-ulaval/BorealTC)                       | BorealTC: Deep Learning for Proprioceptive-Based Terrain Classification in a Boreal Setting | [![stars](https://img.shields.io/github/stars/norlab-ulaval/BorealTC?style=flat-square")](https://github.com/norlab-ulaval/BorealTC)                   |
+| 📷   | [pio-esp32cam](https://github.com/IamPhytan/pio-esp32cam)                   | A PlatformIO compilable project for the ESP32Cam providing a Webcam                         | [![stars](https://img.shields.io/github/stars/IamPhytan/pio-esp32cam?style=flat-square")](https://github.com/IamPhytan/pio-esp32cam)                   |
 
 
 ## :chart_with_upwards_trend: Stats
