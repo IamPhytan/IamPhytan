@@ -11,20 +11,22 @@ During my bachelor's degree in Electrical Engineering, I developed computer visi
 I completed a master's degree in Computer Science with a specialization in Field Robotics, where my research focused on developing terrain awareness using proprioceptive sensor data.
 
 
-![](https://custom-icon-badges.demolab.com/github/stars/IamPhytan?color=693b11&style=for-the-badge&labelColor=99500c&logo=star)
+![](https://img.shields.io/github/followers/IamPhytan?color=693b11&style=for-the-badge&labelColor=99500c&logo=github)
 [![](https://custom-icon-badges.demolab.com/badge/-contact%20me-116918?style=for-the-badge&logoColor=white&logo=paper-airplane)](mailto:phicoltan@gmail.com)
 [![](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/damienlarocque)
 <br/>
 ![Languages](https://img.shields.io/static/v1?label=&message=languages:&color=222&style=for-the-badge)
-![Python](https://img.shields.io/static/v1?logo=python&label=&message=python&color=333&style=for-the-badge)
-![Rust](https://img.shields.io/static/v1?logo=rust&label=&message=rust&color=333&style=for-the-badge)
-![C++](https://img.shields.io/static/v1?logo=cplusplus&label=&message=C%2B%2B&color=333&style=for-the-badge)
-![LaTeX](https://img.shields.io/static/v1?logo=latex&label=&message=LaTeX&color=333&style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-333?logo=python&style=for-the-badge)
+![Rust](https://img.shields.io/badge/Rust-333?logo=rust&style=for-the-badge)
+![C++](https://img.shields.io/badge/C++-333?logo=cplusplus&style=for-the-badge)
+![LaTeX](https://img.shields.io/badge/LaTeX-333?logo=latex&style=for-the-badge)
 <br/>
 ![Frameworks](https://img.shields.io/static/v1?label=&message=frameworks:&color=222&style=for-the-badge)
-![ROS](https://img.shields.io/static/v1?logo=ROS&label=&message=ROS%20%281%2F2%29&color=333&style=for-the-badge)
-![OpenCV](https://img.shields.io/static/v1?logo=opencv&label=&message=OpenCV&color=333&style=for-the-badge)
-![PyTorch](https://img.shields.io/static/v1?logo=pytorch&label=&message=PyTorch&color=333&style=for-the-badge)
+![ROS](https://img.shields.io/badge/ROS%20%281%2F2%29-333?logo=ROS&style=for-the-badge)
+![OpenCV](https://img.shields.io/badge/OpenCV-333?logo=opencv&style=for-the-badge)
+![PyTorch](https://img.shields.io/badge/PyTorch-333?logo=pytorch&style=for-the-badge)
+![PyTorch](https://img.shields.io/badge/NumPy-333?logo=numpy&style=for-the-badge)
+![PyTorch](https://img.shields.io/badge/Pandas-333?logo=pandas&style=for-the-badge)
 
 ## About me
 
