@@ -30,18 +30,17 @@ I completed a master's degree in Computer Science with a specialization in Field
 
 ## About me
 
-- :necktie: I'm looking for a job!
+- :necktie: Robotics Application Engineer bei @Sereact
 - :robot: Working on open source and open hardware robotics projects
 - :bulb: Interested in applications of machine learning methods for embedded and computationally limited devices.
 - :zap: I design PCBs with KiCad
 - :dragon: Interested in using Zenoh on a real robot
-- :calendar: ROS Noetic End of Life is in April 2025 :exclamation: Need help migrating your project in ROS 2? 🙂
 
 <details>
   <summary><b>Fun facts</b></summary>
   <ul>
     <li>I code robots both with and without ROS</li>
-    <li>I like history and archaeology</li>
+    <li>I like history, architecture, and archaeology</li>
     <li>I like learning languages
         <ul>
             <li>Ich spreche ein bisschen Deutsch</li>
