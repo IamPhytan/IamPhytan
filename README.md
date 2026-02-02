@@ -2,18 +2,20 @@
 
 > Nett hier. Aber waren Sie schon mal auf [meiner Website](https://damienlarocque.gitlab.io) ?
 
-Hello! :wave: I'm Damien, maker, FOSS enjoyer, OSHWA member, and passionate about robotics, automation, and electronics.
-I love designing and building autonomous systems, from hardware to software, from sensor driver development to multi-agent network configuration.
+Hello! :wave: I'm Damien, a robotics engineer, maker, and open-source enthusiast based in 🇩🇪.
+
+I love to design and build autonomous systems, from hardware to software, from PCB design and embedded software devlopment to perception, learning, and deployment of robots in real environments.
 I worked on multiple projects on various robotics-related topics, from computer vision to deep learning, from home automation to embedded programming, from robot data processing to field robotics.
-I come from [🇨🇦]🇧🇪 and love 🍁 🍟.
+I come from 🇨🇦🇧🇪 and love 🍁 🍟.
 
-During my bachelor's degree in Electrical Engineering, I developed computer vision algorithms for a robotics student club, with whom I participated in the [Eurobot](https://www.eurobot.org) robotics competition.
-I completed a master's degree in Computer Science with a specialization in Field Robotics, where my research focused on developing terrain awareness using proprioceptive sensor data.
+I hold a master's degree in Computer Science ([field robotics](https://norlab.ulaval.ca)) and a bachelor's in Electrical Engineering, for which I’ve competed in international robotics competitions like [Eurobot](https://www.eurobot.org) and the [French Robotics Cup](https://www.coupederobotique.fr).
+My research focused on developing terrain awareness using proprioceptive sensor data from rovers driving autonomously in forests and winter conditions.
 
+:bulb: My current research interests lie in mobile manipulation and end-to-end learning of policies for mobile robot navigation, with the inherent challenge of deploying them on resource-constrained embedded hardware.
 
 ![](https://img.shields.io/github/followers/IamPhytan?color=693b11&style=for-the-badge&labelColor=99500c&logo=github)
 [![](https://custom-icon-badges.demolab.com/badge/-contact%20me-116918?style=for-the-badge&logoColor=white&logo=paper-airplane)](mailto:phicoltan@gmail.com)
-[![](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/damienlarocque)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/damienlarocque)
 <br/>
 ![Languages](https://img.shields.io/static/v1?label=&message=languages:&color=222&style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-333?logo=python&style=for-the-badge)
@@ -30,14 +32,13 @@ I completed a master's degree in Computer Science with a specialization in Field
 
 ## About me
 
-- :necktie: Robotics Application Engineer bei @Sereact
+- :necktie: Robotics Engineer bei @Sereact
 - :robot: Working on open source and open hardware robotics projects
-- :bulb: Interested in applications of machine learning methods for embedded and computationally limited devices.
-- :zap: I design PCBs with KiCad
+- :zap: I design PCBs with KiCad and design robot parts with FreeCAD.
 - :dragon: Interested in using Zenoh on a real robot
 
 <details>
-  <summary><b>Fun facts</b></summary>
+  <summary><b>Random Access Memories</b></summary>
   <ul>
     <li>I code robots both with and without ROS</li>
     <li>I like history, architecture, and archaeology</li>
@@ -56,16 +57,17 @@ I completed a master's degree in Computer Science with a specialization in Field
 | --- | ---------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | 🤖   | [rosbag-tools](https://github.com/IamPhytan/rosbag-tools)                    | A ROS-agnostic toolbox for common rosbag operations                                         | [![stars](https://img.shields.io/github/stars/iamphytan/rosbag-tools?style=flat-square")](https://github.com/IamPhytan/rosbag-tools)                   |
 | 📚   | [digikey-kicad-library](https://github.com/IamPhytan/digikey-kicad-library)* | An atomic parts library for KiCad 6, 7, and 8                                               | [![stars](https://img.shields.io/github/stars/iamphytan/digikey-kicad-library?style=flat-square")](https://github.com/IamPhytan/digikey-kicad-library) |
-| 🎄   | [christmas-tree-pcb](https://github.com/IamPhytan/christmas-tree-pcb)        | Christmas Tree PCB, made with FOSS                                                          | [![stars](https://img.shields.io/github/stars/iamphytan/christmas-tree-pcb?style=flat-square")](https://github.com/IamPhytan/christmas-tree-pcb)       |
 | 🧪   | [BorealTC](https://github.com/norlab-ulaval/BorealTC)                        | BorealTC: Deep Learning for Proprioceptive-Based Terrain Classification in a Boreal Setting | [![stars](https://img.shields.io/github/stars/norlab-ulaval/BorealTC?style=flat-square")](https://github.com/norlab-ulaval/BorealTC)                   |
+| 🎄   | [christmas-tree-pcb](https://github.com/IamPhytan/christmas-tree-pcb)        | Christmas Tree PCB, made with FOSS                                                          | [![stars](https://img.shields.io/github/stars/iamphytan/christmas-tree-pcb?style=flat-square")](https://github.com/IamPhytan/christmas-tree-pcb)       |
+| 🚨   | [uvt-rs](https://github.com/IamPhytan/uvt-rs)                                | A blazingly fast trajectory file format - Parsing and creating UVT files in Rust            | [![stars](https://img.shields.io/github/stars/iamphytan/uvt-rs?style=flat-square")](https://github.com/IamPhytan/uvt-rs)                               |
 | 📷   | [pio-esp32cam](https://github.com/IamPhytan/pio-esp32cam)*                   | A PlatformIO compilable project for the ESP32Cam providing a Webcam                         | [![stars](https://img.shields.io/github/stars/IamPhytan/pio-esp32cam?style=flat-square")](https://github.com/IamPhytan/pio-esp32cam)                   |
 
 \* extended/updated fork of another user's repo. The fork is linked to its upstream repository.
 
 ## :chart_with_upwards_trend: Stats
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=IamPhytan&langs_count=10&layout=compact&theme=vision-friendly-dark&hide=jupyter+notebook,cmake" width="42%" alt="Top Languages" />
-<img src="https://github-readme-stats.vercel.app/api?username=IamPhytan&layout=compact&theme=vision-friendly-dark&show_icons=true&count_private=true" width="55%" alt="Score Card"/>
+<img align="right" src="https://github-readme-stats-plus-theta.vercel.app/api/top-langs?username=IamPhytan&langs_count=10&layout=compact&theme=vision-friendly-dark&hide=jupyter+notebook,cmake" width="42%" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel-plus-theta.app/api?username=IamPhytan&layout=compact&theme=vision-friendly-dark&show_icons=true&count_private=true" width="55%" alt="Score Card"/>
 
 <!-- ![Score Card](https://github-readme-stats.vercel.app/api?username=IamPhytan&layout=compact&theme=vision-friendly-dark&show_icons=true&count_private=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=IamPhytan&langs_count=10&layout=compact&theme=vision-friendly-dark&hide=jupyter+notebook,cmake) -->
