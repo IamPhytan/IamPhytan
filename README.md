@@ -1,6 +1,6 @@
 # :telescope: Damien LaRocque
 
-> Nett hier. Aber waren Sie schon mal auf [meiner Website](https://damienlarocque.gitlab.io) ?
+> Nett hier. Aber waren Sie schon mal auf [meiner Website](https://damienlarocque.me) ?
 
 Hello! :wave: I'm Damien, a robotics engineer, maker, and open-source enthusiast based in 🇩🇪.
 
@@ -27,8 +27,8 @@ My research focused on developing terrain awareness using proprioceptive sensor 
 ![ROS](https://img.shields.io/badge/ROS%20%281%2F2%29-333?logo=ROS&style=for-the-badge)
 ![OpenCV](https://img.shields.io/badge/OpenCV-333?logo=opencv&style=for-the-badge)
 ![PyTorch](https://img.shields.io/badge/PyTorch-333?logo=pytorch&style=for-the-badge)
-![PyTorch](https://img.shields.io/badge/NumPy-333?logo=numpy&style=for-the-badge)
-![PyTorch](https://img.shields.io/badge/Pandas-333?logo=pandas&style=for-the-badge)
+![Numpy](https://img.shields.io/badge/NumPy-333?logo=numpy&style=for-the-badge)
+![Pandas](https://img.shields.io/badge/Pandas-333?logo=pandas&style=for-the-badge)
 
 ## About me
 
@@ -58,8 +58,9 @@ My research focused on developing terrain awareness using proprioceptive sensor 
 | 🤖   | [rosbag-tools](https://github.com/IamPhytan/rosbag-tools)                    | A ROS-agnostic toolbox for common rosbag operations                                         | [![stars](https://img.shields.io/github/stars/iamphytan/rosbag-tools?style=flat-square")](https://github.com/IamPhytan/rosbag-tools)                   |
 | 📚   | [digikey-kicad-library](https://github.com/IamPhytan/digikey-kicad-library)* | An atomic parts library for KiCad 6, 7, and 8                                               | [![stars](https://img.shields.io/github/stars/iamphytan/digikey-kicad-library?style=flat-square")](https://github.com/IamPhytan/digikey-kicad-library) |
 | 🧪   | [BorealTC](https://github.com/norlab-ulaval/BorealTC)                        | BorealTC: Deep Learning for Proprioceptive-Based Terrain Classification in a Boreal Setting | [![stars](https://img.shields.io/github/stars/norlab-ulaval/BorealTC?style=flat-square")](https://github.com/norlab-ulaval/BorealTC)                   |
-| 🎄   | [christmas-tree-pcb](https://github.com/IamPhytan/christmas-tree-pcb)        | Christmas Tree PCB, made with FOSS                                                          | [![stars](https://img.shields.io/github/stars/iamphytan/christmas-tree-pcb?style=flat-square")](https://github.com/IamPhytan/christmas-tree-pcb)       |
 | 🚨   | [uvt-rs](https://github.com/IamPhytan/uvt-rs)                                | A blazingly fast trajectory file format - Parsing and creating UVT files in Rust            | [![stars](https://img.shields.io/github/stars/iamphytan/uvt-rs?style=flat-square")](https://github.com/IamPhytan/uvt-rs)                               |
+| 🎄   | [christmas-tree-pcb](https://github.com/IamPhytan/christmas-tree-pcb)        | Christmas Tree PCB, made with FOSS                                                          | [![stars](https://img.shields.io/github/stars/iamphytan/christmas-tree-pcb?style=flat-square")](https://github.com/IamPhytan/christmas-tree-pcb)       |
+| 🏀   | [anymal_c_ball_balance](https://github.com/IamPhytan/anymal_c_ball_balance)* | ANYmal C balancing on a ball using mujoco-lab, inspired by Vottivott/microduck-playground.  | [![stars](https://img.shields.io/github/stars/IamPhytan/anymal_c_ball_balance?style=flat-square")](https://github.com/IamPhytan/anymal_c_ball_balance) |
 | 📷   | [pio-esp32cam](https://github.com/IamPhytan/pio-esp32cam)*                   | A PlatformIO compilable project for the ESP32Cam providing a Webcam                         | [![stars](https://img.shields.io/github/stars/IamPhytan/pio-esp32cam?style=flat-square")](https://github.com/IamPhytan/pio-esp32cam)                   |
 
 \* extended/updated fork of another user's repo. The fork is linked to its upstream repository.
